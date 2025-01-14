@@ -1,0 +1,9 @@
+# Ignore everything
+*
+
+# But not these files...
+!Developing_hallucination_guardrails.ipynb
+!requirements.txt
+
+# Ensure .gitignore itself is not ignored
+!.gitignore
